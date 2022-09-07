@@ -1,0 +1,9 @@
+{
+	"name": "dj-ADF94",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7c6c27a6-419d-4950-b23f-2c54a73e65f2",
+		"tenantId": "b6351e56-c625-4eb6-b298-1c30135d2a50"
+	}
+}
