@@ -1,0 +1,9 @@
+{
+	"name": "djdemoadf94",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8bae7f17-c4b9-4355-90be-323ef0381ba3",
+		"tenantId": "b6351e56-c625-4eb6-b298-1c30135d2a50"
+	}
+}
